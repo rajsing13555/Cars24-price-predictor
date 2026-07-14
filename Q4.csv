@@ -1,0 +1,5 @@
+age_bucket,num_listings,avg_asking_price
+0-15 days,136,361728.0
+16-30 days,100,312010.0
+31-60 days,72,276153.0
+60+ days (aging risk),57,212842.0

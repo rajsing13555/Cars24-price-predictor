@@ -1,0 +1,21 @@
+brand,model,avg_days_to_sell,units_sold
+Ford,EcoSport,24.8,343
+Ford,Figo,26.3,380
+Honda,WR-V,21.8,194
+Honda,Jazz,21.8,206
+Hyundai,Venue,24.9,152
+Hyundai,Verna,25.0,152
+Kia,Carens,24.2,242
+Kia,Seltos,25.4,250
+Mahindra,XUV300,22.8,189
+Mahindra,Bolero,26.5,181
+Maruti Suzuki,Swift,21.3,157
+Maruti Suzuki,Baleno,23.9,160
+Renault,Triber,25.3,379
+Renault,Kwid,26.2,406
+Tata,Altroz,22.4,158
+Tata,Nexon,23.8,157
+Toyota,Glanza,23.1,173
+Toyota,Fortuner,23.7,212
+Volkswagen,Vento,24.6,365
+Volkswagen,Polo,27.4,379

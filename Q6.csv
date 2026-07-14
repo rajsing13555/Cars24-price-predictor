@@ -1,0 +1,179 @@
+brand,model,city,listing_date,duplicate_count
+Mahindra,Scorpio,Pune,2024-09-24,3
+Renault,Kwid,Hyderabad,2024-09-23,3
+Renault,Kwid,Mumbai,2024-06-24,3
+Renault,Triber,Bengaluru,2024-03-25,3
+Ford,EcoSport,Ahmedabad,2025-03-29,2
+Ford,EcoSport,Bengaluru,2024-02-07,2
+Ford,EcoSport,Chandigarh,2025-02-01,2
+Ford,EcoSport,Chandigarh,2025-05-11,2
+Ford,EcoSport,Delhi NCR,2024-11-01,2
+Ford,EcoSport,Hyderabad,2024-03-24,2
+Ford,EcoSport,Jaipur,2024-11-09,2
+Ford,EcoSport,Mumbai,2025-06-23,2
+Ford,EcoSport,Pune,2024-12-26,2
+Ford,Figo,Ahmedabad,2024-05-31,2
+Ford,Figo,Delhi NCR,2025-02-12,2
+Ford,Figo,Hyderabad,2025-06-13,2
+Ford,Figo,Jaipur,2025-02-18,2
+Ford,Figo,Kolkata,2024-07-25,2
+Ford,Figo,Kolkata,2024-10-11,2
+Ford,Figo,Kolkata,2025-03-27,2
+Ford,Figo,Pune,2025-05-16,2
+Honda,Amaze,Bengaluru,2025-01-02,2
+Honda,Amaze,Chandigarh,2024-01-10,2
+Honda,Amaze,Chandigarh,2024-06-28,2
+Honda,Amaze,Jaipur,2024-06-27,2
+Honda,Amaze,Mumbai,2025-06-03,2
+Honda,City,Ahmedabad,2024-09-26,2
+Honda,City,Bengaluru,2024-08-04,2
+Honda,City,Chennai,2024-02-18,2
+Honda,City,Kolkata,2024-11-11,2
+Honda,Jazz,Bengaluru,2024-06-28,2
+Honda,Jazz,Hyderabad,2024-07-06,2
+Honda,Jazz,Jaipur,2024-06-15,2
+Honda,Jazz,Mumbai,2025-01-28,2
+Honda,Jazz,Pune,2025-02-14,2
+Honda,WR-V,Bengaluru,2024-05-26,2
+Honda,WR-V,Mumbai,2024-03-20,2
+Hyundai,Creta,Bengaluru,2024-06-30,2
+Hyundai,Grand i10,Delhi NCR,2024-12-24,2
+Hyundai,Grand i10,Delhi NCR,2025-05-31,2
+Hyundai,Grand i10,Pune,2024-04-01,2
+Hyundai,Venue,Delhi NCR,2024-07-28,2
+Hyundai,Verna,Delhi NCR,2024-08-25,2
+Hyundai,Verna,Kolkata,2024-06-08,2
+Hyundai,Verna,Pune,2025-05-27,2
+Hyundai,i20,Bengaluru,2024-06-16,2
+Hyundai,i20,Kolkata,2024-01-14,2
+Kia,Carens,Ahmedabad,2024-06-06,2
+Kia,Carens,Bengaluru,2024-11-12,2
+Kia,Carens,Bengaluru,2025-05-19,2
+Kia,Carens,Bengaluru,2025-05-21,2
+Kia,Carens,Delhi NCR,2024-12-25,2
+Kia,Carens,Hyderabad,2024-01-19,2
+Kia,Carens,Hyderabad,2024-10-16,2
+Kia,Carens,Pune,2025-03-09,2
+Kia,Seltos,Chennai,2024-05-13,2
+Kia,Seltos,Chennai,2024-10-15,2
+Kia,Seltos,Delhi NCR,2024-08-15,2
+Kia,Seltos,Delhi NCR,2024-08-25,2
+Kia,Seltos,Hyderabad,2024-07-23,2
+Kia,Seltos,Kolkata,2025-02-10,2
+Kia,Seltos,Pune,2024-08-04,2
+Kia,Sonet,Bengaluru,2024-11-07,2
+Kia,Sonet,Chandigarh,2024-05-15,2
+Kia,Sonet,Chandigarh,2025-05-10,2
+Kia,Sonet,Hyderabad,2024-08-27,2
+Kia,Sonet,Jaipur,2024-09-18,2
+Kia,Sonet,Mumbai,2024-03-06,2
+Kia,Sonet,Pune,2024-03-16,2
+Mahindra,Bolero,Jaipur,2024-06-03,2
+Mahindra,Scorpio,Ahmedabad,2025-06-28,2
+Mahindra,Scorpio,Bengaluru,2024-11-05,2
+Mahindra,Scorpio,Delhi NCR,2024-08-21,2
+Mahindra,Scorpio,Mumbai,2024-05-12,2
+Mahindra,XUV300,Hyderabad,2024-09-14,2
+Mahindra,XUV300,Hyderabad,2025-04-12,2
+Mahindra,XUV700,Bengaluru,2024-04-21,2
+Mahindra,XUV700,Chennai,2025-01-31,2
+Mahindra,XUV700,Delhi NCR,2024-05-21,2
+Maruti Suzuki,Alto,Delhi NCR,2024-09-13,2
+Maruti Suzuki,Alto,Hyderabad,2024-06-14,2
+Maruti Suzuki,Alto,Mumbai,2024-03-26,2
+Maruti Suzuki,Baleno,Ahmedabad,2024-01-18,2
+Maruti Suzuki,Baleno,Chandigarh,2024-01-02,2
+Maruti Suzuki,Baleno,Chennai,2024-03-04,2
+Maruti Suzuki,Baleno,Chennai,2025-02-23,2
+Maruti Suzuki,Baleno,Delhi NCR,2025-06-02,2
+Maruti Suzuki,Dzire,Bengaluru,2024-06-22,2
+Maruti Suzuki,Dzire,Hyderabad,2024-11-18,2
+Maruti Suzuki,Dzire,Pune,2025-02-04,2
+Maruti Suzuki,Swift,Delhi NCR,2024-05-10,2
+Maruti Suzuki,WagonR,Chennai,2024-07-02,2
+Renault,Kwid,Ahmedabad,2024-08-24,2
+Renault,Kwid,Ahmedabad,2024-10-15,2
+Renault,Kwid,Bengaluru,2025-03-07,2
+Renault,Kwid,Chandigarh,2025-01-27,2
+Renault,Kwid,Chennai,2024-10-10,2
+Renault,Kwid,Chennai,2025-05-27,2
+Renault,Kwid,Delhi NCR,2024-02-10,2
+Renault,Kwid,Hyderabad,2024-05-19,2
+Renault,Kwid,Mumbai,2024-01-07,2
+Renault,Kwid,Mumbai,2025-02-28,2
+Renault,Kwid,Pune,2024-06-20,2
+Renault,Kwid,Pune,2025-01-28,2
+Renault,Triber,Ahmedabad,2025-04-10,2
+Renault,Triber,Bengaluru,2024-12-12,2
+Renault,Triber,Bengaluru,2025-02-18,2
+Renault,Triber,Bengaluru,2025-04-19,2
+Renault,Triber,Bengaluru,2025-05-20,2
+Renault,Triber,Chandigarh,2025-02-09,2
+Renault,Triber,Chennai,2025-03-01,2
+Renault,Triber,Delhi NCR,2024-12-18,2
+Renault,Triber,Delhi NCR,2025-01-11,2
+Renault,Triber,Hyderabad,2024-02-06,2
+Renault,Triber,Jaipur,2024-02-06,2
+Renault,Triber,Jaipur,2025-03-02,2
+Renault,Triber,Kolkata,2024-01-25,2
+Renault,Triber,Kolkata,2024-11-08,2
+Renault,Triber,Kolkata,2025-06-18,2
+Renault,Triber,Mumbai,2024-03-24,2
+Renault,Triber,Mumbai,2024-10-16,2
+Renault,Triber,Mumbai,2025-02-14,2
+Renault,Triber,Mumbai,2025-04-02,2
+Renault,Triber,Pune,2024-01-25,2
+Tata,Altroz,Ahmedabad,2024-03-27,2
+Tata,Nexon,Kolkata,2024-06-03,2
+Tata,Punch,Ahmedabad,2024-06-02,2
+Tata,Punch,Chennai,2024-12-04,2
+Tata,Punch,Delhi NCR,2024-05-31,2
+Tata,Punch,Hyderabad,2024-06-29,2
+Tata,Punch,Jaipur,2024-09-13,2
+Tata,Tiago,Bengaluru,2024-06-08,2
+Tata,Tiago,Kolkata,2024-08-07,2
+Tata,Tiago,Mumbai,2025-04-17,2
+Toyota,Fortuner,Bengaluru,2025-01-24,2
+Toyota,Glanza,Chandigarh,2024-09-20,2
+Toyota,Glanza,Chandigarh,2024-11-06,2
+Toyota,Glanza,Delhi NCR,2024-09-03,2
+Toyota,Glanza,Hyderabad,2024-10-24,2
+Toyota,Innova,Ahmedabad,2024-09-02,2
+Toyota,Innova,Bengaluru,2024-07-02,2
+Toyota,Innova,Bengaluru,2024-09-26,2
+Toyota,Innova,Bengaluru,2025-01-31,2
+Toyota,Innova,Hyderabad,2025-01-09,2
+Toyota,Urban Cruiser,Hyderabad,2024-01-10,2
+Volkswagen,Polo,Chandigarh,2024-08-02,2
+Volkswagen,Polo,Chandigarh,2025-06-28,2
+Volkswagen,Polo,Chennai,2024-08-31,2
+Volkswagen,Polo,Chennai,2024-12-06,2
+Volkswagen,Polo,Delhi NCR,2024-12-03,2
+Volkswagen,Polo,Jaipur,2024-05-15,2
+Volkswagen,Polo,Jaipur,2024-06-07,2
+Volkswagen,Polo,Mumbai,2024-01-04,2
+Volkswagen,Polo,Mumbai,2024-04-07,2
+Volkswagen,Polo,Mumbai,2024-08-08,2
+Volkswagen,Polo,Mumbai,2024-08-25,2
+Volkswagen,Polo,Mumbai,2024-12-15,2
+Volkswagen,Polo,Pune,2024-12-20,2
+Volkswagen,Polo,Pune,2025-05-31,2
+Volkswagen,Vento,Ahmedabad,2024-05-26,2
+Volkswagen,Vento,Ahmedabad,2024-06-27,2
+Volkswagen,Vento,Ahmedabad,2024-12-20,2
+Volkswagen,Vento,Bengaluru,2024-11-10,2
+Volkswagen,Vento,Bengaluru,2025-04-26,2
+Volkswagen,Vento,Chandigarh,2024-01-29,2
+Volkswagen,Vento,Chandigarh,2025-05-16,2
+Volkswagen,Vento,Chennai,2024-06-10,2
+Volkswagen,Vento,Chennai,2024-10-19,2
+Volkswagen,Vento,Chennai,2025-02-06,2
+Volkswagen,Vento,Chennai,2025-02-17,2
+Volkswagen,Vento,Chennai,2025-06-23,2
+Volkswagen,Vento,Delhi NCR,2024-11-16,2
+Volkswagen,Vento,Delhi NCR,2025-06-18,2
+Volkswagen,Vento,Jaipur,2025-01-06,2
+Volkswagen,Vento,Jaipur,2025-03-15,2
+Volkswagen,Vento,Jaipur,2025-03-31,2
+Volkswagen,Vento,Kolkata,2024-01-14,2
+Volkswagen,Vento,Pune,2024-05-02,2
